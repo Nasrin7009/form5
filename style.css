@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(from.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.content{
+    width: 100%;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.h1{
+
+    font-size: 40px;
+    text-decoration: underline;
+    margin: 30px;
+    padding: 10px;
+}
+
+.form{
+    width: 400px;
+
+    box-shadow: 0 0 7px 2px;
+    border-radius: 10px;
+    text-align: center;
+    background-image: url(from.jpg);
+    background-size: cover;
+    background-position: center;
+}
+input{
+    padding: 3px;
+    border-radius: 20px;
+    border: 1px;
+    font-size: 20px;
+    background-color: lightskyblue;
+    color: darkred;
+}
+.p{
+    margin: 10px;
+}
+.login{
+    width: 100%;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.form1{
+    width: 400px;
+    height: 500px;
+    box-shadow: 0 0 7px 2px;
+    border-radius: 10px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,100,0.7),rgba(0,0,10,0.1)),url(download1.jpg);
+    
+    background-size: cover;
+    background-position: center;  
+}
+.forget{
+    
+    width: 100%;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.form2{ width: 450px;
+    height: 300px;
+    box-shadow: 0 0 7px 2px;
+    border-radius: 10px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,100,0.7),rgba(0,0,10,0.7)),url(form1.jpg);
+    background-size: cover;
+    background-position: center;  
+    padding: 30px;
+    color: white;
+}
+.h2{
+    margin: 10px;
+    color: white;
+}
+.p2{
+    margin: 20px;
+    color: white;
+}
+.a{
+    color: white;
+}
